@@ -1,0 +1,189 @@
+Starting S: []
+Initial total completion time: 170
+
+================= ITERATION: 1 =================
+Set of eligible jobs: ['31']
+Among eligible jobs, lowest cost job is: 31
+Current S: ['31']
+Current total completion time: 160
+
+================= ITERATION: 2 =================
+Set of eligible jobs: ['1']
+Among eligible jobs, lowest cost job is: 1
+Current S: ['1', '31']
+Current total completion time: 157
+
+================= ITERATION: 3 =================
+Set of eligible jobs: ['2', '11']
+Among eligible jobs, lowest cost job is: 11
+Current S: ['11', '1', '31']
+Current total completion time: 152
+
+================= ITERATION: 4 =================
+Set of eligible jobs: ['2', '15']
+Among eligible jobs, lowest cost job is: 15
+Current S: ['15', '11', '1', '31']
+Current total completion time: 147
+
+================= ITERATION: 5 =================
+Set of eligible jobs: ['2']
+Among eligible jobs, lowest cost job is: 2
+Current S: ['2', '15', '11', '1', '31']
+Current total completion time: 137
+
+================= ITERATION: 6 =================
+Set of eligible jobs: ['5']
+Among eligible jobs, lowest cost job is: 5
+Current S: ['5', '2', '15', '11', '1', '31']
+Current total completion time: 132
+
+================= ITERATION: 7 =================
+Set of eligible jobs: ['12', '16', '24']
+Among eligible jobs, lowest cost job is: 12
+Current S: ['12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 130
+
+================= ITERATION: 8 =================
+Set of eligible jobs: ['13', '16', '24']
+Among eligible jobs, lowest cost job is: 13
+Current S: ['13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 127
+
+================= ITERATION: 9 =================
+Set of eligible jobs: ['14', '16', '24']
+Among eligible jobs, lowest cost job is: 24
+Current S: ['24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 122
+
+================= ITERATION: 10 =================
+Set of eligible jobs: ['14', '16', '25']
+Among eligible jobs, lowest cost job is: 25
+Current S: ['25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 104
+
+================= ITERATION: 11 =================
+Set of eligible jobs: ['14', '16', '26']
+Among eligible jobs, lowest cost job is: 26
+Current S: ['26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 94
+
+================= ITERATION: 12 =================
+Set of eligible jobs: ['14', '16', '27', '28']
+Among eligible jobs, lowest cost job is: 27
+Current S: ['27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 92
+
+================= ITERATION: 13 =================
+Set of eligible jobs: ['14', '16', '28']
+Among eligible jobs, lowest cost job is: 28
+Current S: ['28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 89
+
+================= ITERATION: 14 =================
+Set of eligible jobs: ['14', '16', '29']
+Among eligible jobs, lowest cost job is: 29
+Current S: ['29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 83
+
+================= ITERATION: 15 =================
+Set of eligible jobs: ['14', '16']
+Among eligible jobs, lowest cost job is: 14
+Current S: ['14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 80
+
+================= ITERATION: 16 =================
+Set of eligible jobs: ['16']
+Among eligible jobs, lowest cost job is: 16
+Current S: ['16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 74
+
+================= ITERATION: 17 =================
+Set of eligible jobs: ['6', '17']
+Among eligible jobs, lowest cost job is: 17
+Current S: ['17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 68
+
+================= ITERATION: 18 =================
+Set of eligible jobs: ['6', '18']
+Among eligible jobs, lowest cost job is: 6
+Current S: ['6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 66
+
+================= ITERATION: 19 =================
+Set of eligible jobs: ['7', '18']
+Among eligible jobs, lowest cost job is: 7
+Current S: ['7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 52
+
+================= ITERATION: 20 =================
+Set of eligible jobs: ['8', '18']
+Among eligible jobs, lowest cost job is: 8
+Current S: ['8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 47
+
+================= ITERATION: 21 =================
+Set of eligible jobs: ['3', '9', '18']
+Among eligible jobs, lowest cost job is: 9
+Current S: ['9', '8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 41
+
+================= ITERATION: 22 =================
+Set of eligible jobs: ['3', '10', '18']
+Among eligible jobs, lowest cost job is: 10
+Current S: ['10', '9', '8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 36
+
+================= ITERATION: 23 =================
+Set of eligible jobs: ['3', '18']
+Among eligible jobs, lowest cost job is: 18
+Current S: ['18', '10', '9', '8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 30
+
+================= ITERATION: 24 =================
+Set of eligible jobs: ['3', '19', '21']
+Among eligible jobs, lowest cost job is: 19
+Current S: ['19', '18', '10', '9', '8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 28
+
+================= ITERATION: 25 =================
+Set of eligible jobs: ['3', '20', '21']
+Among eligible jobs, lowest cost job is: 20
+Current S: ['20', '19', '18', '10', '9', '8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 25
+
+================= ITERATION: 26 =================
+Set of eligible jobs: ['3', '21']
+Among eligible jobs, lowest cost job is: 21
+Current S: ['21', '20', '19', '18', '10', '9', '8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 23
+
+================= ITERATION: 27 =================
+Set of eligible jobs: ['3', '22']
+Among eligible jobs, lowest cost job is: 22
+Current S: ['22', '21', '20', '19', '18', '10', '9', '8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 20
+
+================= ITERATION: 28 =================
+Set of eligible jobs: ['3', '23']
+Among eligible jobs, lowest cost job is: 23
+Current S: ['23', '22', '21', '20', '19', '18', '10', '9', '8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 6
+
+================= ITERATION: 29 =================
+Set of eligible jobs: ['3']
+Among eligible jobs, lowest cost job is: 3
+Current S: ['3', '23', '22', '21', '20', '19', '18', '10', '9', '8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 4
+
+================= ITERATION: 30 =================
+Set of eligible jobs: ['4']
+Among eligible jobs, lowest cost job is: 4
+Current S: ['4', '3', '23', '22', '21', '20', '19', '18', '10', '9', '8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 2
+
+================= ITERATION: 31 =================
+Set of eligible jobs: ['30']
+Among eligible jobs, lowest cost job is: 30
+Current S: ['30', '4', '3', '23', '22', '21', '20', '19', '18', '10', '9', '8', '7', '6', '17', '16', '14', '29', '28', '27', '26', '25', '24', '13', '12', '5', '2', '15', '11', '1', '31']
+Current total completion time: 0
+

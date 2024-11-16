@@ -1,0 +1,224 @@
+{
+    "1": {
+        "processing_time": 3,
+        "due_date": 172,
+        "successors": [
+            31
+        ]
+    },
+    "2": {
+        "processing_time": 10,
+        "due_date": 82,
+        "successors": [
+            1
+        ]
+    },
+    "3": {
+        "processing_time": 2,
+        "due_date": 18,
+        "successors": [
+            8
+        ]
+    },
+    "4": {
+        "processing_time": 2,
+        "due_date": 61,
+        "successors": [
+            3
+        ]
+    },
+    "5": {
+        "processing_time": 5,
+        "due_date": 93,
+        "successors": [
+            2
+        ]
+    },
+    "6": {
+        "processing_time": 2,
+        "due_date": 71,
+        "successors": [
+            16
+        ]
+    },
+    "7": {
+        "processing_time": 14,
+        "due_date": 217,
+        "successors": [
+            6
+        ]
+    },
+    "8": {
+        "processing_time": 5,
+        "due_date": 295,
+        "successors": [
+            7
+        ]
+    },
+    "9": {
+        "processing_time": 6,
+        "due_date": 290,
+        "successors": [
+            8
+        ]
+    },
+    "10": {
+        "processing_time": 5,
+        "due_date": 287,
+        "successors": [
+            9
+        ]
+    },
+    "11": {
+        "processing_time": 5,
+        "due_date": 253,
+        "successors": [
+            1
+        ]
+    },
+    "12": {
+        "processing_time": 2,
+        "due_date": 307,
+        "successors": [
+            5
+        ]
+    },
+    "13": {
+        "processing_time": 3,
+        "due_date": 279,
+        "successors": [
+            12
+        ]
+    },
+    "14": {
+        "processing_time": 3,
+        "due_date": 73,
+        "successors": [
+            13
+        ]
+    },
+    "15": {
+        "processing_time": 5,
+        "due_date": 355,
+        "successors": [
+            11
+        ]
+    },
+    "16": {
+        "processing_time": 6,
+        "due_date": 34,
+        "successors": [
+            5
+        ]
+    },
+    "17": {
+        "processing_time": 6,
+        "due_date": 233,
+        "successors": [
+            15,
+            16
+        ]
+    },
+    "18": {
+        "processing_time": 6,
+        "due_date": 77,
+        "successors": [
+            17
+        ]
+    },
+    "19": {
+        "processing_time": 2,
+        "due_date": 88,
+        "successors": [
+            18
+        ]
+    },
+    "20": {
+        "processing_time": 3,
+        "due_date": 122,
+        "successors": [
+            19
+        ]
+    },
+    "21": {
+        "processing_time": 2,
+        "due_date": 71,
+        "successors": [
+            18
+        ]
+    },
+    "22": {
+        "processing_time": 3,
+        "due_date": 181,
+        "successors": [
+            21
+        ]
+    },
+    "23": {
+        "processing_time": 14,
+        "due_date": 340,
+        "successors": [
+            22
+        ]
+    },
+    "24": {
+        "processing_time": 5,
+        "due_date": 141,
+        "successors": [
+            5
+        ]
+    },
+    "25": {
+        "processing_time": 18,
+        "due_date": 209,
+        "successors": [
+            24
+        ]
+    },
+    "26": {
+        "processing_time": 10,
+        "due_date": 217,
+        "successors": [
+            25
+        ]
+    },
+    "27": {
+        "processing_time": 2,
+        "due_date": 256,
+        "successors": [
+            26
+        ]
+    },
+    "28": {
+        "processing_time": 3,
+        "due_date": 144,
+        "successors": [
+            26
+        ]
+    },
+    "29": {
+        "processing_time": 6,
+        "due_date": 307,
+        "successors": [
+            27,
+            28
+        ]
+    },
+    "30": {
+        "processing_time": 2,
+        "due_date": 329,
+        "successors": [
+            20,
+            23,
+            10,
+            4,
+            29,
+            14
+        ]
+    },
+    "31": {
+        "processing_time": 10,
+        "due_date": 269,
+        "successors": []
+    }
+}

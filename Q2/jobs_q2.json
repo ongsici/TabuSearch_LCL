@@ -1,0 +1,224 @@
+{
+    "1": {
+        "processing_time": 3,
+        "due_date": 172,
+        "precedences": [
+            2,
+            11
+        ]
+    },
+    "2": {
+        "processing_time": 10,
+        "due_date": 82,
+        "precedences": [
+            5
+        ]
+    },
+    "3": {
+        "processing_time": 2,
+        "due_date": 18,
+        "precedences": [
+            4
+        ]
+    },
+    "4": {
+        "processing_time": 2,
+        "due_date": 61,
+        "precedences": [
+            30
+        ]
+    },
+    "5": {
+        "processing_time": 5,
+        "due_date": 93,
+        "precedences": [
+            12,
+            16,
+            24
+        ]
+    },
+    "6": {
+        "processing_time": 2,
+        "due_date": 71,
+        "precedences": [
+            7
+        ]
+    },
+    "7": {
+        "processing_time": 14,
+        "due_date": 217,
+        "precedences": [
+            8
+        ]
+    },
+    "8": {
+        "processing_time": 5,
+        "due_date": 295,
+        "precedences": [
+            3,
+            9
+        ]
+    },
+    "9": {
+        "processing_time": 6,
+        "due_date": 290,
+        "precedences": [
+            10
+        ]
+    },
+    "10": {
+        "processing_time": 5,
+        "due_date": 287,
+        "precedences": [
+            30
+        ]
+    },
+    "11": {
+        "processing_time": 5,
+        "due_date": 253,
+        "precedences": [
+            15
+        ]
+    },
+    "12": {
+        "processing_time": 2,
+        "due_date": 307,
+        "precedences": [
+            13
+        ]
+    },
+    "13": {
+        "processing_time": 3,
+        "due_date": 279,
+        "precedences": [
+            14
+        ]
+    },
+    "14": {
+        "processing_time": 3,
+        "due_date": 73,
+        "precedences": [
+            30
+        ]
+    },
+    "15": {
+        "processing_time": 5,
+        "due_date": 355,
+        "precedences": [
+            17
+        ]
+    },
+    "16": {
+        "processing_time": 6,
+        "due_date": 34,
+        "precedences": [
+            6,
+            17
+        ]
+    },
+    "17": {
+        "processing_time": 6,
+        "due_date": 233,
+        "precedences": [
+            18
+        ]
+    },
+    "18": {
+        "processing_time": 6,
+        "due_date": 77,
+        "precedences": [
+            19,
+            21
+        ]
+    },
+    "19": {
+        "processing_time": 2,
+        "due_date": 88,
+        "precedences": [
+            20
+        ]
+    },
+    "20": {
+        "processing_time": 3,
+        "due_date": 122,
+        "precedences": [
+            30
+        ]
+    },
+    "21": {
+        "processing_time": 2,
+        "due_date": 71,
+        "precedences": [
+            22
+        ]
+    },
+    "22": {
+        "processing_time": 3,
+        "due_date": 181,
+        "precedences": [
+            23
+        ]
+    },
+    "23": {
+        "processing_time": 14,
+        "due_date": 340,
+        "precedences": [
+            30
+        ]
+    },
+    "24": {
+        "processing_time": 5,
+        "due_date": 141,
+        "precedences": [
+            25
+        ]
+    },
+    "25": {
+        "processing_time": 18,
+        "due_date": 209,
+        "precedences": [
+            26
+        ]
+    },
+    "26": {
+        "processing_time": 10,
+        "due_date": 217,
+        "precedences": [
+            27,
+            28
+        ]
+    },
+    "27": {
+        "processing_time": 2,
+        "due_date": 256,
+        "precedences": [
+            29
+        ]
+    },
+    "28": {
+        "processing_time": 3,
+        "due_date": 144,
+        "precedences": [
+            29
+        ]
+    },
+    "29": {
+        "processing_time": 6,
+        "due_date": 307,
+        "precedences": [
+            30
+        ]
+    },
+    "30": {
+        "processing_time": 2,
+        "due_date": 329,
+        "precedences": []
+    },
+    "31": {
+        "processing_time": 10,
+        "due_date": 269,
+        "precedences": [
+            1
+        ]
+    }
+}
