@@ -32,9 +32,9 @@ def main(args):
         results = {}
         for K in [10,100,1000]:
             results[f'K={K}'] = {}
-            for gamma in range(5,55,5):
+            for gamma in range(1,55,1): # Expanded Search Space
                 results[f'K={K}'][f'gamma={gamma}'] = {}
-                for L in range(10,60,10):
+                for L in range(1,60,1): # Expanded Search Space
                     ts = TabuSearch(data=data,
                                     K = K,
                                     gamma = gamma,
