@@ -36,7 +36,7 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("-f", type=str, default="jobs_q2.json", help="Enter file path of JSON file containing job details")
+    parser.add_argument("-f", type=str, default="jobs_q1.json", help="Enter file path of JSON file containing job details")
     args = parser.parse_args()
     
     main(args)
